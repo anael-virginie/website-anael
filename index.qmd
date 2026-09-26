@@ -1,0 +1,60 @@
+---
+title: ""
+css: styles.css
+format:
+  html:
+    page-layout: full
+    include-in-header: head.html
+---
+
+::: {.blobs}
+<span class="blob blob-1"></span>
+<span class="blob blob-2"></span>
+<span class="blob blob-3"></span>
+<span class="blob blob-4"></span>
+:::
+
+::: {.hero}
+
+<!-- ![](avatar.jpg){.avatar} -->
+
+# Anael Lenquette {.name}
+
+[Ecological Modeling | Master’s Student · University of Rennes 1]{.desc}
+
+::: {.links}
+
+<a class="link-row row-linkedin" href="https://www.linkedin.com/in/anael-lenquette" target="_blank">
+  <span class="link-icon"><i class="fab fa-linkedin"></i></span>
+  <span class="link-text">
+    <span class="link-title">LinkedIn</span>
+    <!-- <span class="link-sub">Conecta conmigo profesionalmente</span> -->
+  </span>
+  <span class="link-arrow"><i class="fas fa-arrow-up-right-from-square"></i></span>
+</a>
+
+<a class="link-row row-github" href="https://github.com/anael-virginie" target="_blank">
+  <span class="link-icon"><i class="fab fa-github"></i></span>
+  <span class="link-text">
+    <span class="link-title">GitHub</span>
+    <!-- <span class="link-sub">Proyectos y código</span> -->
+  </span>
+  <span class="link-arrow"><i class="fas fa-arrow-up-right-from-square"></i></span>
+</a>
+
+<a class="link-row row-email" href="mailto:anaelvlenquette@gmail.com">
+  <span class="link-icon"><i class="fas fa-envelope"></i></span>
+  <span class="link-text">
+    <span class="link-title">Email</span>
+    <span class="link-sub">anaelvlenquette@gmail.com</span>
+  </span>
+  <span class="link-arrow"><i class="fas fa-arrow-up-right-from-square"></i></span>
+</a>
+
+:::
+
+::: {.footer}
+&copy; 2026 Anaël Lenquette
+:::
+
+:::

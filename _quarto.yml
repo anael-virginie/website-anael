@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anaël Lenquette"
+  page-navigation: false
+
+format:
+  html:
+    css: styles.css
+    page-layout: full
+    toc: false
+    theme: none
+    title-block-banner: false
+    include-in-header: head.html
