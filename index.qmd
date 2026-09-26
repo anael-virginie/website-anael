@@ -42,6 +42,14 @@ format:
   <span class="link-arrow"><i class="fas fa-arrow-up-right-from-square"></i></span>
 </a>
 
+<a class="link-row row-art" href="https://sites.google.com/view/anallenquette/photography?authuser=0" target="_blank">
+<span class="link-icon"><i class="fas fa-camera"></i></span>
+<span class="link-text">
+<span class="link-title art-title">Art Projects</span>
+</span>
+<span class="link-arrow"><i class="fas fa-arrow-up-right-from-square"></i></span>
+</a>
+
 :::
 
 ::: {.footer}

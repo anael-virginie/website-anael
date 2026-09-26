@@ -213,11 +213,17 @@ main.content {
 .row-email .link-icon { background: #fdecec; color: #d64545; }
 .row-email .link-title { color: #d64545; }
 
+.row-art .link-icon i {color: #c084fc;}
+.art-title {color: #c084fc;}
+
 .footer {
   color: #9aa5b1;
   font-size: 0.75rem;
   margin-top: 2.5rem;
 }
+
+
+
 
 /* Asegura que TODO el árbol de contenedores de Quarto ocupe el ancho completo */
 body,
