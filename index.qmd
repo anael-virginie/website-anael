@@ -42,15 +42,6 @@ format:
   <span class="link-arrow"><i class="fas fa-arrow-up-right-from-square"></i></span>
 </a>
 
-<a class="link-row row-email" href="mailto:anaelvlenquette@gmail.com">
-  <span class="link-icon"><i class="fas fa-envelope"></i></span>
-  <span class="link-text">
-    <span class="link-title">Email</span>
-    <span class="link-sub">anaelvlenquette@gmail.com</span>
-  </span>
-  <span class="link-arrow"><i class="fas fa-arrow-up-right-from-square"></i></span>
-</a>
-
 :::
 
 ::: {.footer}
